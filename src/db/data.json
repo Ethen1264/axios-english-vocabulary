@@ -23,51 +23,46 @@
   ],
   "words": [
     {
-      "Headers": {
-        "Content-type": "application/json"
-      },
-      "body": "{\"id\":1,\"day\":1,\"eng\":\"book\",\"kor\":\"책\",\"isDone\":false}",
-      "id": 1
+      "id": 6,
+      "day": 3,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
     },
     {
-      "Headers": {
-        "Content-type": "application/json"
-      },
-      "body": "{\"id\":3,\"day\":2,\"eng\":\"car\",\"kor\":\"자동차\",\"isDone\":true}",
-      "id": 3
-    },
-    {
-      "Headers": {
-        "Content-type": "application/json"
-      },
-      "body": "{\"id\":5,\"day\":3,\"eng\":\"school\",\"kor\":\"학교\",\"isDone\":true}",
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
       "id": 7
     },
     {
+      "day": "3",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false,
       "id": 8
     },
     {
-      "headers": {
-        "Content-Type": "application/json"
-      },
-      "body": "{\"day\":\"2\",\"eng\":\"mouse\",\"kor\":\"쥐\",\"isDone\":true,\"id\":9}",
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "headers": {
-        "Content-Type": "application/json"
-      },
-      "body": "{\"day\":\"3\",\"eng\":\"apple\",\"kor\":\"사과\",\"isDone\":false,\"id\":12}",
+      "day": "3",
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false,
       "id": 12
+    },
+    {
+      "day": "1",
+      "eng": "hi",
+      "kor": "인사",
+      "isDone": true,
+      "id": 13
+    },
+    {
+      "day": "2",
+      "eng": "card",
+      "kor": "카드",
+      "isDone": false,
+      "id": 14
     }
   ]
 }
