@@ -24,3 +24,8 @@ function App() {
 }
 
 export default App;
+
+
+
+// npm install -g json-server
+// json-server --watch ./src/db/data.json --port 3001
